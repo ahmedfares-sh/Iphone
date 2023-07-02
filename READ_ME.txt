@@ -1,0 +1,2 @@
+--just put the folders as you found them in the web project
+--don't forget to follow global rules
